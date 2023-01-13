@@ -15,6 +15,7 @@ export default {
       new Artitalk({
           appId: 'ogP8qj3veMh0LFpFWMPOyF0X-MdYXbMMI',
           appKey: 'nHXLd3N3Jgh460t2iRQKWAtr',
+          severURL: 'https://ss.wyblog1.tk'
           shuoPla: 'Demo页密码：123456',
           bgImg: 'https://cdn.jsdelivr.net/gh/drew233/cdn/20200409110727.webp',
           atEmoji: {
